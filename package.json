@@ -1,0 +1,15 @@
+{
+  "name": "simple-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js",
+    "tamper": "node tamper.js",
+    "start": "node main.js && node tamper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
